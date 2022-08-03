@@ -299,6 +299,7 @@ and...
 the first day of the week is...
 
 The months of the year
+
 January
 February
 March
@@ -324,6 +325,7 @@ When it's christmas?
 christmas is in December
 
 Vocabulary: i've got / it's / they are
+
 1)i/headphones // i've got some headphones
 2)it/expensive car // it's an expensive car
 3)They / black earphones // they are black earphones
